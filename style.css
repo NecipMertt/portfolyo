@@ -22,10 +22,6 @@
     background-image: url("./images/background.jpg");
 }
 
-.resim img{
-    width: 150px;
-}
-
 .isim, .altbaslik, .profile-img{
     display: flex;
     justify-content: center;
